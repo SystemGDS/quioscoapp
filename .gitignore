@@ -33,5 +33,6 @@ yarn-error.log*
 .vercel
 #Carpeta
 Materiales+QuioscoApp.zip*
+/Materiales+QuioscoApp
 #Script Sql
 quioscoapp.sql*
